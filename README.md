@@ -1,4 +1,4 @@
-# 🚀 Starting a New Adventure: The 75 Days Hard Coding Challenge 🚀
+# 🚀 A New Adventure: The 75 Days Hard Coding Challenge 🚀
 
 Hey #GithubCommunity,
 
