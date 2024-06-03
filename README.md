@@ -11,7 +11,7 @@ Here’s a sneak peek into my daily routine for this challenge:
 ### 🌅 Morning Routine:
 - Wake up ready to conquer the day.
 - Energize with a workout.
-- Start the day with a nutritious breakfast.
+- Start the day with a nutritious breakfast. 
 
 ### 📚 Coding Sessions (4 hours total):
 - Spend 2 hours tackling Python problems and working on projects.
