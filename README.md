@@ -8,7 +8,7 @@ I’m excited to announce that I’m taking on the **75 Hard Coding Challenge!**
 
 Here’s a sneak peek into my daily routine for this challenge:
 
-### 🌅 Morning Routine:
+### 🌅 Morning Routine: 
 - Wake up ready to conquer the day.
 - Energize with a workout.
 - Start the day with a nutritious breakfast. 
